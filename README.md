@@ -1,2 +1,0 @@
-# gitubtraining1
-demo
